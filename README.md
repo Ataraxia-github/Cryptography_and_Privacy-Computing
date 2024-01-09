@@ -1,6 +1,5 @@
-# PDF-books
-E-book materials on privacy computing（有关隐私计算的电子书资料）
-
+# E-book materials
+PDF books about Cryptography and Privacy-Computing
 
 
 **The warehouse contains some books and materials related to cryptography and privacy computing that I have come across since I started my graduate studies. Some were recommended by my advisor and others I found on my own. I have read more or less of each book. To be honest, I haven't fully understood them all, and it's undeniable that some parts of these English originals have been quite challenging for me to grasp. Perhaps in the future, I will find time to go back and read and understand them more thoroughly.**
